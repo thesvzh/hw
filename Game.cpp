@@ -1,11 +1,5 @@
 #include "Game.h"
-#include "GameMap.h"
-#include "../Player/PlayerAI.h"
-#include "../Player/Player.h"
-#include "../Player/Diller.h"
-#include "../Utility/ConsoleManipulator.h"
-#include "../Utility/MouseInputHandler.h"
-#include "../Utility/Timer.h"
+
 
 #include <iostream>
 
